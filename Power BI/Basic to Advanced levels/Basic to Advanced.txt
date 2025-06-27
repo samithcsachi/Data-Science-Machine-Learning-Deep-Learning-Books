@@ -1,0 +1,9 @@
+
+1) Introducing Microsoft Power BI
+2) Analyzing Data with Power BI and Power Pivot for Excel
+3) Tabular Modeling in SQL Server Analysis Services (2nd Edition)
+4) The Definitive Guide to DAX – 2nd Edition
+5) DAX Patterns, Second Edition
+6) Microsoft Power BI Cookbook
+7) Mastering Microsoft Power BI
+8) Optimizing DAX, Second Edition
